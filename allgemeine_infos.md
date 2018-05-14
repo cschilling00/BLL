@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Allgemeine Infos
+subtitle: Definition, Fakten & Wirkung von Alkohol auf den Körper
 ---
 
 
