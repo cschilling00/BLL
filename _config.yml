@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "cschilling00.github.io"
-baseurl: "/"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -90,10 +90,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
