@@ -28,6 +28,6 @@ Alkohol ist die einzige legale Droge, die überall verfügbar ist. Sogar Berghü
 
 Der Grund dafür, dass Menschen zu Alkohol bzw. Drogen greifen ist der Botenstoff Dopamin. Dieser entsteht unter anderem beim Konsum von Drogen und erzeugt Glücksgefühle. Der Körper reagiert mit einer erhöhten Durchblutung und das Verhalten ändert sich. Man wird redselig und entspannt. Diese enthemmende Wirkung macht Alkohol so beliebt, denn er sorgt dafür, dass der Konsument von seinem Alltag abschalten kann und nach einem stressigen Arbeitstag zur Ruhe kommt.
 
-Doch nicht nur Entspannung ist der Grund für Alkoholkonsum, wie Grafik 7 meiner Umfrage zeigt. Von 37 Personen gaben 32 an, dass auch ein anstehendes Ereignis, zum Beispiel eine Party, ein Grund für Alkoholkonsum sei. Ca. 86% trinken also, wenn es was zu feiern gibt. Auch der Genuss spielt für 18 Personen eine Rolle.
+Doch nicht nur Entspannung ist der Grund für Alkoholkonsum, wie Frage 7 meiner Umfrage zeigt. Von 37 Personen gaben 32 an, dass auch ein anstehendes Ereignis, zum Beispiel eine Party, ein Grund für Alkoholkonsum sei. Ca. 86% trinken also, wenn es was zu feiern gibt. Auch der Genuss spielt für 18 Personen eine Rolle.
 
 
