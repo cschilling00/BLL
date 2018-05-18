@@ -10,7 +10,7 @@ subtitle: Definition, Fakten & Wirkung von Alkohol auf den Körper
 
 ### Definition
 
-Die Weltgesundheitsorganisation definiert den Begriff Drogen folgendermaßen: „Drogen sind alle Stoffe, Mittel und Substanzen, die aufgrund ihrer chemischen Natur Strukturen oder Funktionen im lebenden Organismus verändern, wobei sich diese Veränderungen insbesondere in der Stimmungslage, im Bewusstsein oder in anderen psychischen Bereichen oder im Verhalten bemerkbar machen (psychoaktiv).“
+Die Weltgesundheitsorganisation definiert den Begriff Droge folgendermaßen: „Drogen sind alle Stoffe, Mittel und Substanzen, die aufgrund ihrer chemischen Natur Strukturen oder Funktionen im lebenden Organismus verändern, wobei sich diese Veränderungen insbesondere in der Stimmungslage, im Bewusstsein oder in anderen psychischen Bereichen oder im Verhalten bemerkbar machen (psychoaktiv).“
 
 Alkohol verändert also Stimmung, Bewusstsein und Verhalten.
 
