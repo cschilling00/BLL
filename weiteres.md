@@ -1,10 +1,8 @@
-
 ---
 layout: page
 title: Weitere Informationsquellen
-
-
 ---
+
 
 Als weitere Informationsquelle kann der [Alkoholatlas](https://www.dkfz.de/de/tabakkontrolle/download/Publikationen/sonstVeroeffentlichungen/Alkoholatlas-Deutschland-2017_Doppelseiten.pdf) hinzugezogen werden.
 
