@@ -25,11 +25,9 @@ Der Effekt, den Alkohol auf den Menschen hat, steht mehr im Vordergrund als die 
 ### Wirkung
 
 Alkohol ist die einzige legale Droge, die überall verfügbar ist. Sogar Berghütten lassen sich über den Seilzug neben Lebensmitteln auch Alkohol liefern, sodass auch auf den Bergen fernab der Zivilisation Alkohol verfügbar ist.
-Der Grund dafür, dass Menschen zu Alkohol bzw. Drogen greifen ist der Botenstoff Dopamin. Dieser entsteht unter anderem beim Konsum von Drogen und erzeugt Glücksgefühle. Der Körper reagiert mit einer erhöhten Durchblutung und das Verhalten ändert sich. Man wird redselig und entspannt. Diese enthemmende Wirkung macht Alkohol so beliebt, denn er sorgt dafür, dass der Konsument von seinem Alltag abschalten kann und nach einem stressigen Arbeitstag zur Ruhe kommt. 
+
+Der Grund dafür, dass Menschen zu Alkohol bzw. Drogen greifen ist der Botenstoff Dopamin. Dieser entsteht unter anderem beim Konsum von Drogen und erzeugt Glücksgefühle. Der Körper reagiert mit einer erhöhten Durchblutung und das Verhalten ändert sich. Man wird redselig und entspannt. Diese enthemmende Wirkung macht Alkohol so beliebt, denn er sorgt dafür, dass der Konsument von seinem Alltag abschalten kann und nach einem stressigen Arbeitstag zur Ruhe kommt.
+
 Doch nicht nur Entspannung ist der Grund für Alkoholkonsum, wie Grafik 7 meiner Umfrage zeigt. Von 37 Personen gaben 32 an, dass auch ein anstehendes Ereignis, zum Beispiel eine Party, ein Grund für Alkoholkonsum sei. Ca. 86% trinken also, wenn es was zu feiern gibt. Auch der Genuss spielt für 18 Personen eine Rolle.
 
 
-
-
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
