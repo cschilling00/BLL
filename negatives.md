@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Negatives über Alkohol
-subtitle: 
+subtitle: Negative Aspekte des Alkoholkonsums
 ---
 
 
